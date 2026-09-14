@@ -1,0 +1,4 @@
+Description: Write a program that randomly generates a number between 1 and 100. The user has to guess the number, and the program will give feedback if the guess is too high or too low. 
+Create functions for each operation.
+Take two inputs from the user and allow them to select the desired operation.
+Handle division by zero with appropriate error messages.
